@@ -1,0 +1,26 @@
+th {
+    text-align: center;
+    background-color: lavender;
+    color: black;
+    }
+  h1 {
+    text-align: center;
+    background-color: mediumpurple; 
+    color: black;
+    font-family: Helvetica;
+    font-style: italic;
+    }
+  table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    border-color:black;
+  }
+  td {
+    background-color: whitesmoke;
+  }
+  html {
+    background-image: url("simple-texture.png");
+  }
+  table {
+    font-family: Helvetica;
+  }
